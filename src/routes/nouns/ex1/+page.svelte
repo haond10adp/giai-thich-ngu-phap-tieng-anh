@@ -55,7 +55,7 @@
 
 <style>
 	ul {
-		width: 40ch;
+		width: 50ch;
 	}
 	ul li {
 		display: flex;
